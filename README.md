@@ -25,7 +25,3 @@ Here are some ideas to get you started:
 <img alt="Java" src="https://badges.aleen42.com/src/python.svg"/>
 
 </div>
-  
-<p>
- 
-  ![Muhlis GitHub stats](https://github-readme-stats.vercel.app/api?username=mcyba&show_icons=true&theme=dracula)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mcyba&&langs_count=8&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mcyba"></p>
